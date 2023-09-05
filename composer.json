@@ -4,8 +4,8 @@
   "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Robson V. Leite",
-      "email": "cursos@upinside.com.br",
+      "name": "Adriano",
+      "email": "adriano.jv@hotmail.com",
       "homepage": "https://www.upinside.com.br",
       "role": "Developer"
     }
@@ -30,6 +30,7 @@
     "coffeecode/uploader": "^1.0",
     "coffeecode/cropper": "^1.0",
     "coffeecode/optimizer": "^1.0",
-    "coffeecode/paginator": "^1.0"
+    "coffeecode/paginator": "^1.0",
+    "coffeecode/router": "^1.0"
   }
 }
